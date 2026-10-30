@@ -1,0 +1,15 @@
+[09:02] Carla: Bom dia, pessoal. Vamos fechar o planejamento da sprint. Estão aqui eu, o Rafael, a Juliana e o Diego.
+[09:03] Rafael: O cliente reclamou de novo que o relatório mensal demora. Hoje leva uns 40 segundos pra abrir.
+[09:04] Diego: Isso é a consulta de vendas sem índice. Eu consigo criar o índice e cachear o resultado. Até quarta eu entrego.
+[09:05] Carla: Fechado, Diego fica com o relatório. Prioridade alta, é o que mais gera chamado.
+[09:07] Juliana: Sobre o app, a tela de login no Android ainda quebra quando a pessoa gira o celular.
+[09:08] Carla: Juliana, consegue olhar isso essa sprint?
+[09:08] Juliana: Consigo, mas preciso de um aparelho Android pra testar. O meu é iPhone.
+[09:09] Rafael: Eu levo o meu Android amanhã.
+[09:10] Carla: Ótimo. Outra coisa: decidimos que a partir de agora todo PR precisa de pelo menos uma revisão antes do merge. Sem exceção.
+[09:11] Diego: Concordo. E o deploy de sexta?
+[09:12] Carla: Deploy de sexta está cancelado, vamos para segunda de manhã, que tem gente pra acompanhar.
+[09:13] Rafael: Eu preciso atualizar a documentação da API, está desatualizada desde a versão 2.
+[09:14] Carla: Pode ser até o fim da sprint, prioridade média.
+[09:15] Juliana: Ficou em aberto se vamos migrar o banco para a versão 16 do Postgres. Alguém sabe o custo?
+[09:16] Carla: Ninguém sabe ainda. Fica pra próxima reunião. Obrigada, pessoal.
